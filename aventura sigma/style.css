@@ -42,6 +42,7 @@ main {
 .finaldesistente2 {
     font-size: x-large;
     -webkit-text-fill-color: grey;
+    font-family: "Wingdings";
 }
 .finalzen {
     -webkit-text-fill-color: yellow;
@@ -51,6 +52,12 @@ main {
 }
 .finalrelaxante {
     -webkit-text-fill-color: gold;
+}
+.finalinterdimensional {
+    -webkit-text-fill-color: purple;
+}
+.finalexplosivo {
+    -webkit-text-fill-color: red;
 }
 .finalinterdimensional {
     -webkit-text-fill-color: purple;
